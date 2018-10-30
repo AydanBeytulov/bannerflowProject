@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerflowAPI", "BannerflowAPI\BannerflowAPI.csproj", "{4335A912-B835-4C79-B06E-8198946D84A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerflowClient", "BannerflowClient\BannerflowClient.csproj", "{352917AA-CE4A-49C4-AE19-73F5C867C0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4335A912-B835-4C79-B06E-8198946D84A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4335A912-B835-4C79-B06E-8198946D84A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4335A912-B835-4C79-B06E-8198946D84A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4335A912-B835-4C79-B06E-8198946D84A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352917AA-CE4A-49C4-AE19-73F5C867C0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352917AA-CE4A-49C4-AE19-73F5C867C0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352917AA-CE4A-49C4-AE19-73F5C867C0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352917AA-CE4A-49C4-AE19-73F5C867C0DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D22748BB-32A6-4699-A354-AB574D9A45A1}
+	EndGlobalSection
+EndGlobal
